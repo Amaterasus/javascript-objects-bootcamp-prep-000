@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var playlist = 
 { 
   LinkinPark: "Leave out all the rest",
@@ -14,3 +15,10 @@ function removeFromPlaylist(obj, art)
 {
   return delete obj[art];
 }
+=======
+var playlist = {
+  breakfast: "oatmeal",
+  lunch: "turkey sandwich",
+  dinner: "steak and potatoes"
+};
+>>>>>>> 78dcbd1b8acdcc3efad357138ed5d7b3c30f39b3
